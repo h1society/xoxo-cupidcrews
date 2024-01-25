@@ -334,8 +334,8 @@ h1{
 h1{
     text-align: center;
     color: aliceblue;
-    margin: 100px;
-    font-size: 50px;
+    margin: 80px;
+    font-size: 30px;
 }
 
 .uiverse {
@@ -356,14 +356,14 @@ h1{
     outline: none;
     position: absolute;
     top: 50%;
-    left: 45%;
+    left: 50%;
     transform: translate(-50%, -50%);
     cursor: pointer;
     border: none;
     display: table;
     border-radius: 24px;
     padding: 0;
-    margin: 70px;
+    margin: 50px;
     align-items: center;
     align-content: center;
     text-align: center;
