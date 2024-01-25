@@ -320,7 +320,7 @@ h1{
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
     
-  /* body {
+body {
     /* background-image: url('S__9527329.jpg');
     align-content: center; */
     background-image: url('S__9527329.jpg');
@@ -328,7 +328,7 @@ h1{
     justify-content: center;
     height: 100vh;
     margin: 0;
-} */
+} 
 
 h1{
   text-align: center;
