@@ -1,7 +1,9 @@
 body {
     /* background-image: url('S__9527329.jpg');
     align-content: center; */
-    background-image: url('S__9527329.jpg');
+    /* background-image: url('S__9527329.jpg'); */
+    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),
+    url(S__9527329.jpg);
 }
 
 h1{
@@ -326,7 +328,8 @@ h1{
   body {
     /* background-image: url('S__9527329.jpg');
     align-content: center; */
-    background-image: url('S__9527329.jpg');
+    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),
+    url(S__9527329.jpg);
 }
 
 h1{
