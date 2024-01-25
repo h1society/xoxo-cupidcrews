@@ -6,6 +6,9 @@ body {
 
 h1{
     text-align: center;
+    color: aliceblue;
+    margin: 80px;
+    font-size: 50px;
 }
 
 .uiverse {
@@ -33,7 +36,7 @@ h1{
     display: table;
     border-radius: 24px;
     padding: 0;
-    margin: 30px;
+    margin: 50px;
     align-items: center;
     align-content: center;
     text-align: center;
@@ -328,6 +331,9 @@ h1{
 
 h1{
     text-align: center;
+    color: aliceblue;
+    margin: 80px;
+    font-size: 50px;
 }
 
 .uiverse {
@@ -355,7 +361,7 @@ h1{
     display: table;
     border-radius: 24px;
     padding: 0;
-    margin: 30px;
+    margin: 50px;
     align-items: center;
     align-content: center;
     text-align: center;
