@@ -27,7 +27,7 @@ h1{
     outline: none;
     position: absolute;
     top: 50%;
-    left: 35%;
+    left: 25%;
     transform: translate(-50%, -50%);
     cursor: pointer;
     border: none;
