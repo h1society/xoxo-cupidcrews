@@ -43,7 +43,7 @@ h1{
     text-align: center;
     position: relative;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: var(--c-color);
@@ -350,7 +350,7 @@ h1{
     --c-shadow-inset-bottom: rgba(255, 250, 215, .8);
     --c-radial-inner: #ffd215;
     --c-radial-outer: #fff172;
-    --c-color: #fff;
+    --c-color: #000;
     -webkit-tap-highlight-color: transparent;
     -webkit-appearance: none;
     outline: none;
@@ -369,7 +369,7 @@ h1{
     text-align: center;
     position: relative;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: var(--c-color);
